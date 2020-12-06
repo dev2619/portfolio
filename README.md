@@ -1,3 +1,5 @@
 # portafolio personal
-# relacion de proyectos desarrollados y tecnologias conocidas
-# 
+
+# Portafolio personal, con proyectos realizados, vinculando tecnologias conocidas en el desarrollo de los mismos.
+
+#
